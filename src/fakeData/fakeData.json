@@ -1,0 +1,76 @@
+[
+    {
+        "id" : 1,
+        "name" : "Sergio Ramos",
+        "price" : 100000,
+        "image" : "https://i.ibb.co/rcyJR5x/sergio-ramos-11548371249zqjeloe7r1.png"
+    },
+    {
+        "id" : 2,
+        "name" : "Karim Benzema",
+        "price" : 150000,
+        "image" : "https://i.ibb.co/D1L8MJY/BENZEMA-POSE-550x650.png"
+    },
+    {
+        "id" : 3,
+        "name" : "Eden Hazard",
+        "price" : 145606,
+        "image" :"https://i.ibb.co/nDQmw4Y/eden-hazard-11548008545rc8mtvskml.png"
+    },
+    {
+        "id" : 4,
+        "name" : "Vinícius Júnior",
+        "price" : 185000,
+        "image" : "https://i.ibb.co/PWSkSYG/VINICIUS-0.png"
+    },
+    {
+        "id" : 5,
+        "name" : "Isco",
+        "price" : 163000,
+        "image" : "https://i.ibb.co/Pg4JCP6/11570081436rom2ahhmky5nxftx3nmtsdhrue2rlohhtg85a3j5hj4kkyyctjvkqoyzouzfskdzlcut5ihpyyecoqqagxs5dc45y.png"
+    },
+    {
+        "id" : 6,
+        "name" : "Marcelo Vieira",
+        "price" : 189600,
+        "image" : "https://i.ibb.co/vs911MP/png-clipart-marcelo-vieira-2016-17-uefa-champions-league-real-madrid-c-f-2018-uefa-champions-league.png"
+    },
+    {
+        "id" : 7,
+        "name" : "Rodrygo",
+        "price" : 165436,
+        "image" : "https://i.ibb.co/y4Zr7Xk/Rodrygo-Silva-de-Goes-936030-55-ub-800-mobile.png"
+    },
+    {
+        "id" : 8,
+        "name" : "Ferland Mendy",
+        "price" : 152060,
+        "image" : "https://i.ibb.co/SddnYWF/p84114698.png" 
+    },
+    {
+        "id" : 9,
+        "name" : "Toni Kroos",
+        "price" : 175000,
+        "image" : "https://i.ibb.co/CM5R9Vm/107-1071886.png"
+    },
+    {
+        "id" : 10,
+        "name" : "Marvin Park",
+        "price" : 160000,
+        "image" : "https://i.ibb.co/jbJt8rw/Marvin-550x650-Thumb.jpg"
+    },
+    {
+        "id" : 11,
+        "name" : "Mariano Diaz",
+        "price" : 250000,
+        "image" : "https://i.ibb.co/bKFXQcB/mariano-diaz-mejia-91018-55-ub-800-mobile.png"
+    },
+    {
+        "id" : 12,
+        "name" : "Thibaut Courtois",
+        "price" : 120000,
+        "image" : "https://i.ibb.co/N7WHzdm/imgbin-thibaut-courtois-chelsea-f-c-premier-league-football-player-premier-league-sk-JTFrx-Up4-S0-VY.jpg" 
+    }
+
+
+]
